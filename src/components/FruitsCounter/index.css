@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+}
+.fruits-container {
+  background-color: #ffffff;
+  height: 70vh;
+  width: 70vw;
+  border-radius: 10px;
+  margin: 150px;
+  margin-left: 170px;
+}
+.heading {
+  text-align: center;
+  margin: 10px;
+  font-family: 'Roboto';
+}
+.mangoCount {
+  color: #ffd569;
+  font-family: 'Roboto';
+}
+.bananasCount {
+  color: #ffd569;
+  font-family: 'Roboto';
+}
+.fruits-images {
+  display: flex;
+  justify-content: center;
+}
+.Images {
+  height: 200px;
+  width: 200px;
+  margin: 40px;
+  align-self: center;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 10px;
+  border-style: none;
+  margin: 30px;
+  height: 30px;
+}
+.btn {
+  margin-left: 90px;
+}
